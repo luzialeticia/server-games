@@ -1,6 +1,38 @@
 # API de jogos
 
-**Contratos**
+Projeto prático de desenvolvimento de APIs com Node.js e Express. Desenvolvido na 8ª semana do curso de Back-end da {reprograma} sob a orientação da professora Alessandra do Carmo.
+
+> Status do Projeto: Concluido :heavy_check_mark:
+<hr>
+
+## Linguagens e Tecnologias utilizadas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
+
+<hr>
+
+## Rodando o projeto
+
+No terminal, clone o projeto:
+<br>
+`git clone https://github.com/luzialeticia/server-games.git`
+
+Entre na pasta do projeto:
+<br>
+`cd server-games`
+
+Instale as dependências:
+<br>
+`npm install`
+
+Execute:
+<br>
+`npm start`
+
+<hr>
+
+## Contratos
 
 | Recurso | Descrição |
 | --- | --- |
