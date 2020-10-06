@@ -4,5 +4,6 @@ const controller = require("../controller/gamesController")
 const cors = require("cors")
 
 router.get("/games", cors(), controller.getGames)
+router.get("/games/:id", cors(), controller.getGamesById)
 
 module.exports = router
