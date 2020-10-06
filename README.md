@@ -5,8 +5,6 @@ Projeto prático de desenvolvimento de APIs com Node.js e Express. Desenvolvido 
 > Status do Projeto: Concluido :heavy_check_mark:
 
 
----
-
 
 ## Linguagens e Tecnologias utilizadas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
