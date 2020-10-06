@@ -3,14 +3,17 @@
 Projeto prático de desenvolvimento de APIs com Node.js e Express. Desenvolvido na 8ª semana do curso de Back-end da {reprograma} sob a orientação da professora Alessandra do Carmo.
 
 > Status do Projeto: Concluido :heavy_check_mark:
-<hr>
+
+
+---
+
 
 ## Linguagens e Tecnologias utilizadas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 
-<hr>
+---
 
 ## Rodando o projeto
 
@@ -30,9 +33,9 @@ Execute:
 <br>
 `npm start`
 
-<hr>
 
-## Contratos
+
+### Contratos
 
 | Recurso | Descrição |
 | --- | --- |
@@ -64,3 +67,5 @@ Execute:
         "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co23jy.jpg"    
     }
 ```
+
+---
