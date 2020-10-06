@@ -34,6 +34,7 @@ Execute:
 
 
 ### Contratos
+> Utilizando método GET
 
 | Recurso | Descrição |
 | --- | --- |
